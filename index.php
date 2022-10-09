@@ -7,16 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/styles.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="assets/bootstrap.css?v=<?php echo time(); ?>">
-    <title>Document</title>
+    <title>Galaxy Register</title>
 </head>
 
 <body>
     <h1 class="mt-5 _wh1 animate-typing" data-type-speed="100">
-        Welcome to Codealaxy!
+        Welcome to Galaxy Login & Register!
     </h1>
 
     <div class="_lr1 _lrb1" id="lb1" style="display: none;">
-        <span class="animate-typing" data-type-delay="3500" data-type-speed="100">Let's get you registered!</span>
+        <span class="animate-typing" data-type-delay="4500" data-type-speed="100">Let's get you registered!</span>
         <div class="mt-3" id="emq1" style="display: none;">
             <div class="mt-3">
                 <input type="text" class="form-control" id="uEmail" placeholder="Enter your email!">
@@ -43,7 +43,7 @@
         </div>
         <div class="mt-3" id="refe1" style="display: none;">
             <div class="mt-3">
-                <input type="text" class="form-control" id="referral" placeholder="Were you referred to Codealaxy? If so, who referred you!">
+                <input type="text" class="form-control" id="referral" placeholder="Were you referred to Galaxy Login & Register? If so, who referred you!">
             </div>
             <div class="mt-3 float-end">
                 <button class="btn btn-outline-light" id="contem4">Continue</button>
@@ -70,10 +70,10 @@
         // Email form delays
         setTimeout(function() {
             $('#lb1').fadeIn();
-        }, 3000);
+        }, 4000);
         setTimeout(function() {
             $('#emq1').fadeIn();
-        }, 6500);
+        }, 7500);
 
         // Name form delays
         $('#contem1').click(function() {
