@@ -24,6 +24,9 @@
             <div class="mt-3 float-end">
                 <button class="btn btn-outline-light" id="contem1">Continue</button>
             </div>
+            <div class="mt-3">
+                <p class="_link"><a href="login.php">Already have an account?</a></p>
+            </div>
         </div>
         <div class="mt-3" id="naq1" style="display: none;">
             <div class="mt-3">
@@ -31,6 +34,9 @@
             </div>
             <div class="mt-3 float-end">
                 <button class="btn btn-outline-light" id="contem2">Continue</button>
+            </div>
+            <div class="mt-3">
+                <p class="_link"><a href="login.php">Already have an account?</a></p>
             </div>
         </div>
         <div class="mt-3" id="paq1" style="display: none;">
@@ -40,6 +46,9 @@
             <div class="mt-3 float-end">
                 <button class="btn btn-outline-light" id="contem3">Continue</button>
             </div>
+            <div class="mt-3">
+                <p class="_link"><a href="login.php">Already have an account?</a></p>
+            </div>
         </div>
         <div class="mt-3" id="refe1" style="display: none;">
             <div class="mt-3">
@@ -47,6 +56,9 @@
             </div>
             <div class="mt-3 float-end">
                 <button class="btn btn-outline-light" id="contem4">Continue</button>
+            </div>
+            <div class="mt-3">
+                <p class="_link"><a href="login.php">Already have an account?</a></p>
             </div>
         </div>
         <div class="mt-3" id="veri1" style="display: none;">
@@ -58,6 +70,9 @@
             </div>
             <div class="mt-3">
                 <button class="btn btn-outline-light float-end" id="contem3">Complete Registration</button>
+            </div>
+            <div class="mt-3">
+                <p class="_link"><a href="login.php">Already have an account?</a></p>
             </div>
         </div>
     </div>

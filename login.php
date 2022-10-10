@@ -24,6 +24,9 @@
             <div class="mt-3 float-end">
                 <button class="btn btn-outline-light" id="contem1">Continue</button>
             </div>
+            <div class="mt-3">
+                <p class="_link"><a href="index.php">Don't have an account?</a></p>
+            </div>
         </div>
         <div class="mt-3" id="naq1" style="display: none;">
             <div class="mt-3">
@@ -31,6 +34,9 @@
             </div>
             <div class="mt-3 float-end">
                 <button class="btn btn-outline-light" id="logMeIn">Log me in!</button>
+            </div>
+            <div class="mt-3">
+                <p class="_link"><a href="index.php">Don't have an account?</a></p>
             </div>
         </div>
     </div>

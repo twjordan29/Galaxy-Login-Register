@@ -40,3 +40,9 @@ body {
 ._frmval {
     color: #9efe86;
 }
+
+a {
+    color: #9efe86;
+    font-size: 12px;
+    text-decoration: none !important;
+}
